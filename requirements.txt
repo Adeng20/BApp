@@ -1,4 +1,4 @@
-
+gunicorn==23.0.0
 absl-py==2.3.1
 amqp==5.3.1
 annotated-types==0.7.0
@@ -193,4 +193,5 @@ widgetsnbextension==4.0.14
 wrapt==1.17.2
 wsproto==1.2.0
 zipp==3.23.0
+
 
